@@ -1,0 +1,6 @@
+{
+  "name": "3D First-Person Tower Defense",
+  "description": "A browser-based 3D first-person shooter and tower defense survival game where players defend a central core from waves of spawning enemies using multiple weapons, automated turret positioning, and coin-based base upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
