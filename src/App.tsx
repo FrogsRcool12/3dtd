@@ -4,7 +4,7 @@
  */
 
 import { useEffect, useRef, useState } from 'react';
-import { GameEngine } from './game/GameEngine';
+import { GameEngine } from './gameEngine';
 import { GameUI } from './components/GameUI';
 import { GameState, WeaponType, UpgradeType, TowerType, Upgrade } from './types';
 import { Eye, Shield, Cpu, Play } from 'lucide-react';
